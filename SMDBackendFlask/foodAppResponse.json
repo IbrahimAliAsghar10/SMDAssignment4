@@ -1,0 +1,46 @@
+{
+    "categoryData":[
+        {
+            "title":"Pizza",
+            "pic":"cat_1"
+        },
+        {
+            "title":"Burger",
+            "pic":"cat_2"
+        },
+        {
+            "title":"HotDog",
+            "pic":"cat_3"
+        },
+        {
+            "title":"Drink",
+            "pic":"cat_4"
+        },
+        {
+            "title":"Donut",
+            "pic":"cat_5"
+        }
+    ],
+    "popularData":[
+        {
+            "title":"Pepperoni Pizza",
+            "pic":"pop_1",
+            "fees":9.76
+        },
+        {
+            "title":"Cheese Burger",
+            "pic":"pop_2",
+            "fees":8.76
+        },
+        {
+            "title":"Vegetable Pizza",
+            "pic":"pop_3",
+            "fees":7.5
+        }
+    ]
+}
+
+
+
+
+
